@@ -1,0 +1,15 @@
+{
+  "ssid": "MBKM Local",
+  "password": "mbkm2022",
+  "broker": "192.168.10.135",
+  "mqtt_user": "mbkm2022",
+  "mqtt_pass": "mbkm2022",
+  "client_device": "Board_1",
+  "topic": "testtopic",
+  "mqtt_port": 1883,
+  "Hardware": 2,
+  "idx": 1,
+  "local_ip": [192,168,10,87],
+  "gateway": [192,168,10,1],   
+  "subnet": [255,255,255,0]
+}
